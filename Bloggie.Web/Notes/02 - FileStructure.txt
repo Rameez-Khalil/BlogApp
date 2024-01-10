@@ -1,0 +1,33 @@
+SOLUTION: 
+	Project organization, it can contain multiple projects.
+
+PROJECT: 
+	Files organization, it contains various files and folders.
+	When we add external libraries into our project, they end up getting added into our proj.cs files.
+
+PROPERTIES/LAUNCH SETTINGS: 
+	This contains information about how our application will start.
+ROOT: 
+	This contains static files.
+	These files are directly accessible to our clients.
+
+CONTROLLER: 
+	This contains class files which handles request and generate responses against each.
+MODEL:
+	This contains model class files to hold and update app data.
+
+VIEW: 
+	This contains corresponding HTML files for controllers.
+	Shared files are available for other controllers.
+
+Appsettings: 
+	All the app settings are contained within this file.
+	This file can be used to apply for configuration of the database.
+
+ENTRY POINT: 
+	Program.cs is the entry point for our application.
+	We first add services to our application
+	.NET supports dependency injection which allows IOC Inversion Of Control between classes and dependencies.
+	We can inject our services into .NET container by accessing the services collection in builder object.
+	builder.Services.AddConrollersWithViews()
+

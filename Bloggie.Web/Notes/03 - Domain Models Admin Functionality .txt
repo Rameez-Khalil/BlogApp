@@ -1,0 +1,8 @@
+ADMIN FUNCTIONALITY: 
+	Since an admin can perform CRUD operations.
+	They can manipulate BlogPost and Tags.
+
+	BLOGS AND TAGS ARE CONNECTED.
+	ITS A MANY-TO-MANY RELATIONSHIP.
+
+	
