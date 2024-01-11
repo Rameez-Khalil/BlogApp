@@ -1,0 +1,8 @@
+TWO PACKAGES: 
+	entity framework.sql - 
+	entity framework core.tools - migration.
+
+
+DBCONTEXT: 
+	It acts as a bridge between entities and entitiy.
+	Primary class for interacting with database.

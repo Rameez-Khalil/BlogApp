@@ -1,0 +1,10 @@
+DB CONTEXT: 
+This class is responsible for interacting with the database.
+This acts as a bridge between our entitities and the main entitiy.
+
+We will define our entities that are living under our models within this class so these tables can be generated.
+
+
+This key needs to be added under applicationsettings
+
+ "BloggieDbConnectionString": "Server=DESKTOP-4FJMVGM;Database=BloggieDb;Trusted_Connection=True;TrustServerCertificate=Yes"

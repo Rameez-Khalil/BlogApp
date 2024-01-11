@@ -1,0 +1,6 @@
+INJECT DBCONTEXT: 
+	We've to inject DBcontext class into services, through Dependency Injection.
+
+/Injecting DB
+//builder will fetch the connection string.
+builder.Services.AddDbContext<BloggieDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("BloggieDbConnectionString"))); 

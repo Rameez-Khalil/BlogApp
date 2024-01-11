@@ -1,0 +1,5 @@
+Add-Migration "Name of migration": 
+	This will look into our DbContextFIle and then it will create all the necessary tables along with all the necessary columns.
+
+Update-Database: 
+	This will then use the scipts and convert those into tables.
