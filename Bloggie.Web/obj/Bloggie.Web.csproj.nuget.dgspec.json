@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\backend-learning\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\backend-learning\\Projects\\BlogApp\\Bloggie.Web\\Bloggie.Web.csproj": {}
   },
   "projects": {
-    "D:\\backend-learning\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj": {
+    "C:\\Users\\DELL\\Desktop\\backend-learning\\Projects\\BlogApp\\Bloggie.Web\\Bloggie.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\backend-learning\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\backend-learning\\Projects\\BlogApp\\Bloggie.Web\\Bloggie.Web.csproj",
         "projectName": "Bloggie.Web",
-        "projectPath": "D:\\backend-learning\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
-        "packagesPath": "C:\\Users\\DANISH LAPTOP\\.nuget\\packages\\",
-        "outputPath": "D:\\backend-learning\\Bloggie\\Bloggie.Web\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\backend-learning\\Projects\\BlogApp\\Bloggie.Web\\Bloggie.Web.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\backend-learning\\Projects\\BlogApp\\Bloggie.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DANISH LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
