@@ -1,32 +1,26 @@
-﻿@model Bloggie.Web.Models.ViewModel.AddTagRequest
-@{
-
-}
-
-<div class="bg-secondary bg-opacity-10 py-2">
-    <div class="container">
-        <h1> Add new Tag - Admin functionality</h1>
-    </div>
-
-
-    <!-- This is the section#3-->
-    <div class="container py-5"> 
+﻿/*
+ * We will create a form so we can take the user input.
+ * We will also create a tag in the database.
+ * Under the addcs html file create a form.
+ * 
+ * <div class="container py-5"> 
         <form method="post">
             <div class="mb-3">
                 <label class="form-label"> 
                     Name
                 </label>
-                <input type="text" class="form-control" id="name" asp-for="Name"/>
+                <input type="text" class="form-control" id="name"/>
             </div>
             <div class="mb-3">
                 <label class="form-label">
                     Display Name
                 </label>
-                <input type="text" class="form-control" id="displayName" asp-for="DisplayName"/>
+                <input type="text" class="form-control" id="displayName" />
             </div>
             <div class="mb-3">
                 <button type="submit" class="btn btn-dark">Submit</button>
             </div>
         </form>
     </div>
-</div>
+ *
+ */
